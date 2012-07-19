@@ -74,3 +74,5 @@
      (region ((t (:background "#4a410d"))))
      (text-cursor ((t (:background "yellow" :foreground "black"))))
      (underline ((nil (:underline nil)))))))
+
+(provide 'color-theme-sunburst)
